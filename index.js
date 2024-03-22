@@ -40,4 +40,5 @@ if (numberOne && numberTwo && operator) {
 }
 else {
     console.log("kindly input the correct values");
+    console.log("Thank you for using my calculator.");
 }
